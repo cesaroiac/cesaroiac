@@ -1,4 +1,4 @@
-## Olá, eu sou o Caio César, desenvolvedor Full-Stack e cofundador da Inexts!
+## Olá, eu sou o Caio César, desenvolvedor Full-Stack e cofundador da Rycle!
 Para mais detalhes dos sistemas privados desenvolvidos pela **Rycle**, sugiro que acessem nosso site institucional clicando [aqui](https://rycle.com.br/)
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
